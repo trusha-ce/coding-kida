@@ -7,3 +7,4 @@ List of programs are
 3) hanoi -> tower of hanoi animation
 4) mail -> console based mailing system
 5) pstr -> prime string (challange on TechGig GEEK GODDESS)
+6) qtab -> postfix to quadruple tabel construction
